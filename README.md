@@ -5,3 +5,4 @@ This is a dummy repo
 Hello World
 Testing CLA
 Testing if member can merge
+Testing
